@@ -1,5 +1,3 @@
 # kuliah
-# kuliah
-# kuliah
-# kuliah
-# kuliah
+
+Tentang Kuliahku
